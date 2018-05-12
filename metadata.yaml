@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7945
     wikipedia: http://en.wikipedia.org/wiki/Sherwood_Eddy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18325#With-Our-Soldiers-in-France
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-05-06'
 gutenberg_type: Text
